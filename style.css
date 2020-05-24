@@ -13,3 +13,7 @@ nav a {
   padding: 10px;
   background-color: green;
 }
+figcaption {
+  font-size: 10;
+  text-align: center}
+}
