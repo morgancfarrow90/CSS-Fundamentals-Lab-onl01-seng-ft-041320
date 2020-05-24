@@ -20,12 +20,12 @@ p {
   width: 800px;
   }
 
-section #details {
-  text-align: center;
-  display: block;
-}
+#section #details {
+ # text-align: center;
+  #display: block;
+#}
 
-#details div p {
+#details div{
   float: left;
   background-color: red;
   text-align: center;
