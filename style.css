@@ -21,7 +21,6 @@ p {
   }
 
 #details {
-  display: horizontal 
   display: inline-block;
 }
 footer div{
