@@ -15,8 +15,10 @@ figcaption {
   font-size: smaller;
   text-align: center;
 }
-blocktext {
+p {
   width: 800px;
+  }
+blocktext {
   text-align: center;
   }
 footer{
