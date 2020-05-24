@@ -24,7 +24,7 @@ footer {
   text-align: center;
 }
 
-footer > div{
+footer div{
   float: left;
   background-color: red;
   text-align: center;
