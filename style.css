@@ -22,6 +22,7 @@ p {
 
 section #details {
   text-align: center;
+  display: block;
 }
 
 #details div {
