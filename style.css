@@ -20,11 +20,11 @@ p {
   width: 800px;
   }
 
-footer {
+section #details {
   text-align: center;
 }
 
-footer div p{
+#details div {
   float: left;
   background-color: red;
   text-align: center;
