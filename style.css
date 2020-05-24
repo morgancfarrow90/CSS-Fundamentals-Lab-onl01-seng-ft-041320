@@ -22,7 +22,6 @@ p {
 
 footer {
   text-align: center;
-  display: block;
 }
 
 footer div{
@@ -30,6 +29,7 @@ footer div{
   background-color: red;
   text-align: center;
   width: 25%;
+  display: block;
 }
 
 
