@@ -9,7 +9,7 @@ header {
 section {text-align: center;
   
 }
-nav {
+nav a {
   padding: 10px;
   background-color: green;
 }
