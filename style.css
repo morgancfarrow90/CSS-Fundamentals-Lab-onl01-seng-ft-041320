@@ -21,7 +21,7 @@ p {
   }
 
 footer {
-  display: inline-block;
+  display: inline;
 }
 footer div{
   float: left;
