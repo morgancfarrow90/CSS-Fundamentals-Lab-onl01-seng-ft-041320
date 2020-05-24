@@ -21,10 +21,6 @@ p {
   }
 
 footer {
-  text-align: center;
-}
-
-footer div{
   float: left;
   background-color: red;
   text-align: center;
