@@ -22,6 +22,7 @@ p {
 
 footer {
   text-align: center;
+  display: block;
 }
 
 footer div{
