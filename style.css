@@ -21,5 +21,13 @@ p {
   width: 800px;
   text-align: center;
 }
+footer{
+  display: block;
+}
+footer div{
+  float: left;
+}
 
+}
+}
 
