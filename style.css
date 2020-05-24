@@ -21,10 +21,8 @@ p {
   }
 
 footer {
-  .footer-widget-area .widget:not(.widget_text) {
-    border-top: 1px solid #e5e5e5;
-    display: inline-block;
-    padding: 20px;
+  display: inline-block;
+  padding: 20px;
 }
 
 
