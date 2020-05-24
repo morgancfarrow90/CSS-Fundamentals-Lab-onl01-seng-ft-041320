@@ -24,7 +24,7 @@ section #details {
   text-align: center;
 }
 
-#details div p{
+#details div h p{
   float: left;
   background-color: red;
   text-align: center;
